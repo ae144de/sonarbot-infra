@@ -5,7 +5,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/ae144de/sonarbot-infra/services/services/pkg/log"
+	// "github.com/ae144de/sonarbot-infra/services/services/pkg/log"
 	"github.com/ae144de/sonarbot-infra/services/stream-service/pkg/kafka"
 )
 

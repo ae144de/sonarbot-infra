@@ -5,6 +5,7 @@ go 1.24.1
 require go.mongodb.org/mongo-driver v1.17.3
 
 require (
+	github.com/ae144de/sonarbot-infra/services/stream-service v0.0.0-20250515020835-1d61e59b3192 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/klauspost/compress v1.16.7 // indirect
 	github.com/montanaflynn/stats v0.7.1 // indirect
