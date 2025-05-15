@@ -6,7 +6,8 @@ import (
 	"syscall"
 
 	// "github.com/ae144de/sonarbot-infra/services/services/pkg/log"
-	"github.com/ae144de/sonarbot-infra/services/stream-service/pkg/kafka"
+	// "github.com/ae144de/sonarbot-infra/services/stream-service"
+	"github.com/ae144de/sonarbot-infra/services/stream-services/pkg/kafka"
 )
 
 // Streamer handles consuming kline data and publishing to Kafka.
